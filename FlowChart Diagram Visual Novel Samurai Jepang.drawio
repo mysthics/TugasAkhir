@@ -1,0 +1,365 @@
+<mxfile host="app.diagrams.net" modified="2024-02-25T04:52:06.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sc4g3mYJSoeSFLx76_QJ" version="23.1.6" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="FlowChartDiagram">
+    <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="sybSrRStO9Q50R4q5jQa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Introduction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="76.25" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="sybSrRStO9Q50R4q5jQa-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Pergi kearah &lt;br&gt;Barat" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="600" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Perbincangan antara Leader dari prajurit Jepang dengan Sang Raja" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="48.75" y="150" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="sybSrRStO9Q50R4q5jQa-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Chapter 1 : Awal Mula Kerajaan Jirume" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="61.25" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-2" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-2" target="sybSrRStO9Q50R4q5jQa-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-2" value="Pergi kearah &lt;br&gt;Selatan" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="462.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-3" target="sybSrRStO9Q50R4q5jQa-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-3" value="Aku tidak menemukan prajurtiku sama sekali" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="480" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-5" target="sybSrRStO9Q50R4q5jQa-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-5" value="Game Over" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="690" y="487.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-8" target="sybSrRStO9Q50R4q5jQa-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-8" value="Akhirnya Raja Jirume menemukan Prajuritnya" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500.01" y="620" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-17" value="Bad Ending" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="570" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-18" target="sybSrRStO9Q50R4q5jQa-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-18" value="Pembicaraan Stategi untuk menemukan Hikari&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="68.75" y="370" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-21" target="sybSrRStO9Q50R4q5jQa-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-21" target="sybSrRStO9Q50R4q5jQa-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-21" value="Chapter II : Pertemuan Sang Raja dengan Hikari seorang prajurit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="477.5" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-24" target="sybSrRStO9Q50R4q5jQa-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-24" value="Perbincangan dimulai Raja Jirume dangan Hikari" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="505" y="750" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-26" value="Kembali ke menu awal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="690" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-29" value="True Ending" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="385" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-40" target="sybSrRStO9Q50R4q5jQa-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-40" value="Setelah pembicaraan selesai Hikari pun menghilang" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="491.88" y="870" width="166.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-42" target="sybSrRStO9Q50R4q5jQa-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-42" value="Chapter III : Peperangan dimulai dengan pasukan Mongol" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="865" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-45" target="sybSrRStO9Q50R4q5jQa-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-45" value="Persiapan perang untuk melawan para pasukan Mongol" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="56.25" y="990" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-47" target="sybSrRStO9Q50R4q5jQa-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-47" value="Raja Jirume memastikan semua alutsista dan persenjataan sudah siap" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="982.5" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-49" target="sybSrRStO9Q50R4q5jQa-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-49" value="Setelah melakukan seluruh persiapan persenjatan maka Jepang melakukan taktik" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="535" y="987.5" width="190" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sybSrRStO9Q50R4q5jQa-52" target="D5AGTCUP_p4g3uu0EJGO-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sybSrRStO9Q50R4q5jQa-52" value="Kedatangannya pasukan Mongol untuk menyerang wilayah Jepang" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="542.5" y="1090" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-0" target="D5AGTCUP_p4g3uu0EJGO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-0" value="GenghisKhan bertemu dengan Raja Jirume untuk bertarung" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="830" y="1090" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-8" target="D5AGTCUP_p4g3uu0EJGO-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-8" value="Menyerang secara langsung" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="838.75" y="920" width="147.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-12" target="D5AGTCUP_p4g3uu0EJGO-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-12" target="D5AGTCUP_p4g3uu0EJGO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-12" value="Satu sayatan terkena tubuh GenghisKhan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="850.62" y="740" width="123.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-14" target="D5AGTCUP_p4g3uu0EJGO-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-14" value="Pertarung kembali berlanjut sampai titik darah penghabisan" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1070" y="703.75" width="180" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="738.75" as="sourcePoint" />
+            <mxPoint x="838.75" y="963.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="648.75" />
+              <mxPoint x="740" y="649" />
+              <mxPoint x="740" y="964" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-27" target="JfjWCldrZT9OuwPHl6zC-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-27" value="Chapter IV : Menghilangnya Hikari" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1360" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-29" target="D5AGTCUP_p4g3uu0EJGO-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-29" value="Berfikir terlebih &lt;br&gt;dahulu" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1086.25" y="920" width="147.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D5AGTCUP_p4g3uu0EJGO-31" target="D5AGTCUP_p4g3uu0EJGO-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-31" value="Sebaiknya sebelum menyerang berfikir terlebih dahulu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1327.5" y="935" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5AGTCUP_p4g3uu0EJGO-33" value="Game Over" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1333.75" y="1047.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-0" target="JfjWCldrZT9OuwPHl6zC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-0" value="Takuya mencari Hikari yang hilang dan tak kembali" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1590" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-2" target="JfjWCldrZT9OuwPHl6zC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-2" target="JfjWCldrZT9OuwPHl6zC-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-2" value="Pergi menuju arah&amp;nbsp;&lt;br&gt;Barat" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1843.75" y="725" width="147.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-6" target="JfjWCldrZT9OuwPHl6zC-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-6" value="Aku tidak menemukan Hikari sama sekali&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1843.75" y="570" width="146.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-8" value="Game Over" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2083.125" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-10" target="JfjWCldrZT9OuwPHl6zC-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-10" target="JfjWCldrZT9OuwPHl6zC-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-10" value="Telusuri Hutan lebih dalam" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2075.94" y="725" width="147.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-12" target="JfjWCldrZT9OuwPHl6zC-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-12" value="Kemudian Takuya bingung harus kemana lagi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2069.38" y="910" width="160.62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-14" value="Game Over" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2089.69" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-16" target="JfjWCldrZT9OuwPHl6zC-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-16" value="Pergi menuju arah Selatan" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2280" y="725" width="147.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-18" target="JfjWCldrZT9OuwPHl6zC-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-18" value="Takuya akhirnya menemukan Hikari namun terdapat hal yang mencurigakan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2521.25" y="740" width="198.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-20" target="JfjWCldrZT9OuwPHl6zC-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-20" value="Lalu Hikari sedang berbincang-bindang dengan pasukan Mongol" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2545.31" y="880" width="150.63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-24" target="JfjWCldrZT9OuwPHl6zC-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-24" value="Hikari dan Temujin merencanakan sesuatu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2809.995000000001" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-26" target="JfjWCldrZT9OuwPHl6zC-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-26" value="Lalu Takuya mengikuti rencana yang dibuat oleh Hikari dan Temujin" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3010" y="885" width="144.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-32" target="JfjWCldrZT9OuwPHl6zC-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-32" target="JfjWCldrZT9OuwPHl6zC-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-32" target="vlpRz-IlVBsjhfX4U0GE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-32" value="Kembali ke Istana" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3363.44" y="870" width="147.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-36" target="JfjWCldrZT9OuwPHl6zC-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-36" value="Scene berpindah ke peperangan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3377.19" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-38" target="JfjWCldrZT9OuwPHl6zC-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-38" target="JfjWCldrZT9OuwPHl6zC-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-38" value="Takuya menghadang Hikari dan Temujin dengan langsung" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3337.19" y="725" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-42" target="JfjWCldrZT9OuwPHl6zC-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-42" value="Takuya ketahuan tidak mengendap-ngendap" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3615.31" y="740" width="136.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-45" value="Game Over" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3810.0049999999997" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-47" target="JfjWCldrZT9OuwPHl6zC-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-47" value="Mengikuti mereka &lt;br&gt;berdua" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3366.25" y="570" width="141.88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-54" target="JfjWCldrZT9OuwPHl6zC-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-54" value="Takuya mengikuti mereka untuk mengetahui apa yang mereka apa yang direncanakan selanjutnya?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3605.31" y="585" width="254.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-56" value="Takuya membantu Raja Jirume mengalahkan Genghis Khan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3575.31" y="1040" width="186.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-58" target="JfjWCldrZT9OuwPHl6zC-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-58" value="Temujin merencanakan rencana kedua" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3979.6699999999996" y="585" width="157.19" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-61" target="JfjWCldrZT9OuwPHl6zC-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-61" value="Kemudian Takuya muncul untuk menghadang mereka ke Istana&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3966.1599999999994" y="733.75" width="184.21" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JfjWCldrZT9OuwPHl6zC-67" target="vlpRz-IlVBsjhfX4U0GE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfjWCldrZT9OuwPHl6zC-67" value="Lalu Hikari menjelaskan apa yang telah terjadi" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4230" y="733.75" width="138.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vlpRz-IlVBsjhfX4U0GE-1" target="vlpRz-IlVBsjhfX4U0GE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-1" value="Takuya membantu pertarungan Raja Jirume yang hampir mati" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3604.69" y="885" width="185.31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vlpRz-IlVBsjhfX4U0GE-3" target="vlpRz-IlVBsjhfX4U0GE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-3" value="Kemudian Takuya memberitahukan kepada Sang Raja bahwa Hikari telah berkhianat" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3902.66" y="885" width="207.34" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vlpRz-IlVBsjhfX4U0GE-5" target="vlpRz-IlVBsjhfX4U0GE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-5" value="Hikari menjelaskan yang terjadi dimasa lalunya dan mengenai Raja Jirume" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4457.3" y="733.75" width="202.7" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vlpRz-IlVBsjhfX4U0GE-7" target="vlpRz-IlVBsjhfX4U0GE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5010" y="763.75" />
+              <mxPoint x="5010" y="915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-7" value="Lalu pertarungan Takuya dengan Hikari dan Temujin berlangsung" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4781.35" y="733.75" width="178.65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vlpRz-IlVBsjhfX4U0GE-9" target="vlpRz-IlVBsjhfX4U0GE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-9" value="Setelah pertarungan berdua berlanjut kemudian Takuya membawa mereka berdua untuk menghadap ke Raja Jirume" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4233.67" y="885" width="276.33" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpRz-IlVBsjhfX4U0GE-11" value="Chapter 5 : Kemenangan bagi Kerajaan Jepang" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4789.76" y="885" width="161.84" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
